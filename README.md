@@ -8,6 +8,7 @@ A continuación se enlistan los lenguajes de programación iniciales
 3. Java
 4. Javascript
 5. SQL
+6. CSS
 
 Al igual que se tendrán ramas para diferentes frameworks:
 1. .Net
