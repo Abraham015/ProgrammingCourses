@@ -1,15 +1,9 @@
-# ProgrammingCourses
-Repositorio para cursos de lenguaje de programación
-En este repositorio se encontraran diferentes ramas con algunos programas de ejemplo para repasar las cosas de diferentes cursos
+# Rama de python
+En esta rama se tendrán los archivos corresponientes al curso <https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/>
 
-A continuación se enlistan los lenguajes de programación iniciales
-1. Golang
-2. Python
-3. Java
-4. Javascript
-5. SQL
-
-Al igual que se tendrán ramas para diferentes frameworks:
-1. .Net
-2. React
-3. Spring
+Donde se colocará una bitacora de los temas consultados, así como pequeñas notas
+>07-08-2023
+1. Se crea el repositorio
+2. Se inicia con Listas y Tuplas, debemos recordar que una Lista si se puede modificar, la tupla no
+3. Se consultaron los set
+4. Se consultaron los diccionarios
